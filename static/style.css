@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c7995e;
+    text-align: center;
+    background-image: url('cats.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+form {
+    margin: auto;
+    padding: 15px;
+    background: #fff;
+    width: 280px;
+    border-radius: 4px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+input {
+    width: 88%;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+button {
+    padding: 8px 18px;
+    border: none;
+    border-radius: 3px;
+    background-color: #007bff;
+    color: #fff;
+}
